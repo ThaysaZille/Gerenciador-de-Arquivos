@@ -1,4 +1,14 @@
-# Gerenciador-de-Arquivos
+<p align="left"><img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/></p>
+
+## 1 Propósito do Documento
+
+  Este documento tem o objetivo de introduzir e fornecer um entendimento geral de um sistema de gerenciamento de arquivos desenvolvido para desktop e mobile, mostrando suas principais funcionalidades e usos.
+
+## 1.2 Objetivo do Projeto
+
+  O objetivo deste projeto tem o intuito de criar um software que facilite o gerenciamento de arquivos para os usuarios, podendo armazenar arquivos em diversos formatos, como documentos, imagens e vídeos, contendo as operações CRUD. O sistema será compatível com diversos sistemas operacionais, como Windows, Mac OS e iOS. Terá recursos como: Um meio de busca de arquivos, que podem ser filtradas por tipo, tamanho, data de modificação e palavra-chave; o compartilhamento destes também será algo possível, dando a possibilidade de definição de permissões de acesso, como de leitura, gravação e edição; com este compartilhamento, há a sincronização automática ou manual, dando a escolha ao usuário para como será realizado este backup; a visualização dos arquivos sem a necessidade de baixá-los; proteção dos arquivos com senhas e criptografia.
+
+# Gerenciador de Arquivos
 Estudo de caso para a disciplina de Engenharia de Software.
 
 O gerenciamento eficiente de arquivos é crucial para manter a organização e a produtividade no ambiente digital atual. Um sistema de gerenciamento de arquivos desenvolvido para desktop e dispositivos móveis permitirá aos usuários armazenar, organizar e compartilhar arquivos com segurança e eficiência.
