@@ -1,4 +1,4 @@
-<p align="left"><img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=forestgreen&style=plastic"/></p>
+<p align="left"><img src="http://img.shields.io/static/v1?label=STATUS&message=COMPLETED&color=forestgreen&style=plastic"/></p>
 
 ## 1 Propósito do Documento
 
